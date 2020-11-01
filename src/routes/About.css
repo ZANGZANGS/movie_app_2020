@@ -11,6 +11,18 @@
     font-weight: 300;
 }
 
+.about__contaner div{
+    padding-top: 3px;
+    margin: 2px;
+    text-align: center;
+}
+
+.about__contaner div a{
+    text-decoration: yellowgreen;
+    font-size: 7px;
+    font-weight: bolder;
+}
+
 .about__contaner span:first-child{
     font-size: 20px;
 }
